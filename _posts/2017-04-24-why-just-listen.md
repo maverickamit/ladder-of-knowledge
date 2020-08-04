@@ -1,5 +1,7 @@
 ---
 layout: post
+comments: true
+
 title: "Why Just Listen, When You Can Dance"
 excerpt: "Out of dancing stars we are born. And in the lights of fireflies we depart."
 tags: 

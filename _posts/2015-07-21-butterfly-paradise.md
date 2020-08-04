@@ -1,11 +1,14 @@
 ---
 layout: post
+comments: true
+
 title: "Butterfly Paradise"
 excerpt: "Oh look can you see the butterfly? / Spreading her wings across the sky."
 image: "images/butterfly-flying.jpg"
 tags: 
   - poem
 ---
+
 
 
 Oh look can you see the butterfly?  

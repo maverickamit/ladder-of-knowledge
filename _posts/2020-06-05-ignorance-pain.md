@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Ignorance is pain"
+comments: true
+
 excerpt: "A teardrop in her eye / Tired walk on a lonely road"
 # image: "images/forest_road.jpg"
 tags:

@@ -1,5 +1,7 @@
 ---
 layout: post
+comments: true
+
 title: "Looking in the Mirror"
 excerpt: "Walking alone in the winter night / With a frozen heart and a heavy soul."
 # image: "images/winter-night-roadside.jpg"

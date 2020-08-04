@@ -1,5 +1,7 @@
 ---
 layout: post
+comments: true
+
 title: "Will to Power"
 excerpt: "Overcoming yourself"
 # image: "images/nietzsche.jpg"

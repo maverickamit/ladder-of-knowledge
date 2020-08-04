@@ -1,5 +1,7 @@
 ---
 layout: post
+comments: true
+
 title: "The best things I learned from my partner"
 excerpt: "Well, it seems to me in this era of romanticism, we make the bar of expectations pretty high from our partners."
 # image: "images/plant-growth.jpg"

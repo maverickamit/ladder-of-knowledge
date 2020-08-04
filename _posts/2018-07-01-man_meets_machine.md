@@ -1,5 +1,7 @@
 ---
 layout: post
+comments: true
+
 title: "Man Meets a Machine"
 excerpt: "What is a feeling? what are emotions?"
 # image: "images/man_meets_machine.jpg"
