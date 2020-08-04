@@ -2,12 +2,11 @@
 layout: post
 title: "Looking in the Mirror"
 excerpt: "Walking alone in the winter night / With a frozen heart and a heavy soul."
-image: "images/winter-night-roadside.jpg"
+# image: "images/winter-night-roadside.jpg"
 tags: 
   - poem
 ---
 
-## Looking in the Mirror
 
 Walking alone in the winter night  
 With a frozen heart and a heavy soul.  

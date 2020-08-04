@@ -2,12 +2,11 @@
 layout: post
 title: "Man Meets a Machine"
 excerpt: "What is a feeling? what are emotions?"
-image: "images/man_meets_machine.jpg"
+# image: "images/man_meets_machine.jpg"
 tags: 
   - poem
 ---
 
-### Man Meets a Machine
 
 What is a feeling? what are emotions?  
 Some chemical reaction inside  

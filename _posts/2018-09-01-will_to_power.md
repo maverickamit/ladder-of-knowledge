@@ -2,12 +2,11 @@
 layout: post
 title: "Will to Power"
 excerpt: "Overcoming yourself"
-image: "images/nietzsche.jpg"
+# image: "images/nietzsche.jpg"
 tags: 
   - article
 ---
 
-### Will to Power
 
 One of the most prominent concepts in Nietzsche’s philosophy is The will to power. Here power does not mean any external sources of power. By power he meant self-overcoming. To overcome oneself to higher and higher position. But what is the manifestation of this will to power in your own life? According to Nietzsche, it is to live life according to your own wishes and desires. To live authentically. Not by the expectations of society or the masses.  
 Is it risky? Yes. Is it dangerous? Yes. But it is also full of life. Remember when you were a child, how everything you did was a new exploration, a new venture into the unknown. Everything was new, everything was first time. Life was full of experiences and hence, each day seemed long compared to your adulthood now. Because now, you don’t live dangerously, because you take the same route to work without exploring other ways. Life has become too predictable and there are no new experiences. And each day seems to pass by within a fraction of the time it used to before.   

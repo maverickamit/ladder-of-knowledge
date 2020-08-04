@@ -2,12 +2,11 @@
 layout: post
 title: "Open and See"
 excerpt: "Have you ever noticed the cool breeze, Blowing slowly."
-image: "images/open_and_see.jpg"
+# image: "images/open_and_see.jpg"
 tags: 
   - poem
 ---
 
-## Open and See
 
 Have you ever noticed the cool breeze,  
 Blowing slowly   

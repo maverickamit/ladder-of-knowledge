@@ -2,12 +2,11 @@
 layout: post
 title: "The best things I learned from my partner"
 excerpt: "Well, it seems to me in this era of romanticism, we make the bar of expectations pretty high from our partners."
-image: "images/plant-growth.jpg"
+# image: "images/plant-growth.jpg"
 tags:
   - article
 ---
 
-### The best things I learned from my partner
 
 Well, it seems to me in this era of romanticism, we make the bar of expectations pretty high from our partners. In reality, we forget even the little small things they do for us is a gift, every time. It's all good and well to have an idealistic vision of love and relationships but the reality is much less dramatic, lots of compromises and very hard to hold on to. Many soon give up or blame others for not being able grasp and accept the reality. But if personal growth is what you're looking for, one of the best teacher in life could be your relationship. From parents to siblings to partners and your friends. But most from your romantic relationship, because perhaps that is where we are least exposed to but expect the most from. It is always by jumping into the water, you learn to swim.
 Having said that, here are a couple of things I am grateful for and the things she made me understand about myself and the world.

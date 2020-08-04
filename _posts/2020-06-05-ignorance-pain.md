@@ -7,7 +7,6 @@ tags:
   - poem
 ---
 
-## Ignorance is pain
 
 A teardrop in her eye,  
 Tired walk on a lonely road,  

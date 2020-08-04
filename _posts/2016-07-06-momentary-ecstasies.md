@@ -7,7 +7,6 @@ tags:
   - story
 ---
 
-# Momentary Ecstasies
 
 The weather was perfect. It just rained a little ago. You could still feel the humidity in the air. The sky was clear now and the gloomy sun was on his way to the other side of the earth.  
 She was sitting beside me, hands on her knees. The steps we sat on descended into the water. Little waves made splashes that formed ripples around our toes. You could hear the sound of water smashing against the concrete. Few kids were playing a few yards away.   

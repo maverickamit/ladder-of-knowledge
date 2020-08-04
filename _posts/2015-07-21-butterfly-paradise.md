@@ -7,7 +7,6 @@ tags:
   - poem
 ---
 
-### Butterfly Paradise
 
 Oh look can you see the butterfly?  
 Spreading her wings across the sky.  
