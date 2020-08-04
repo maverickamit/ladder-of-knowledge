@@ -22,8 +22,8 @@ title: Ladder of Knowledge
 email: ladderofknowledge@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog to write down my thoughts/writings and to share it with you. Through this blog, I hope you will be able to know me better. Feel free to reach out to me to discuss anything and maybe have a coffee together. 
-baseurl: "/newblog" # the subpath of your site, e.g. /blog
-url: "https://amit-ghosh.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ladderofknowledge.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: philomathamit
 github_username:  maverickamit
 
