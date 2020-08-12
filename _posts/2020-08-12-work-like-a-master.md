@@ -9,7 +9,7 @@ tags:
 I'll start off with a quote from Karma-yoga by Swami Vivekananda.
 "The whole gist of this teaching is that you should work like a master and not as a slave; work incessantly, but do not do slave's work."
 
-I'll be honest. I have always been lazy since childhood. Be it in physical work or mental work, I tried my best to not put too much effort it. But now, at 26 years old age, I have to face the reality that working is as essential to happiness as thinking and meditating about your emotions. of course, the quality and type of work will significantly influence your mental state. We should always strive to do only the things that push us forward in psychological and philosophical growth.
+I'll be honest. I have always been lazy since childhood. Be it in physical work or mental work, I tried my best to not put too much effort in it. But now, at 26 years old age, I have to face the reality that working is as essential to happiness as thinking and meditating about your emotions. of course, the quality and type of work will significantly influence your mental state. We should always strive to do only the things that push us forward in psychological and philosophical growth.
 
 Many wrongly believe that as long as they haven't found their life's passion, they don't want to work hard. But passion can't be figured out by thinking alone. Action and emotion are so deeply connected that without working hard on something, you will never understand if you love it or not.
 
