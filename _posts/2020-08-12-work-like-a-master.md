@@ -4,7 +4,6 @@ title: "Work like a master"
 comments: true
 tags:
   - article
-
 ---
 
 I'll start off with a quote from Karma-yoga by Swami Vivekananda.
@@ -12,7 +11,7 @@ I'll start off with a quote from Karma-yoga by Swami Vivekananda.
 
 I'll be honest. I have always been lazy since childhood. Be it in physical work or mental work, I tried my best to not put too much effort it. But now, at 26 years old age, I have to face the reality that working is as essential to happiness as thinking and meditating about your emotions. of course, the quality and type of work will significantly influence your mental state. We should always strive to do only the things that push us forward in psychological and philosophical growth.
 
-Many wrongly beliefs that as long as they haven't found their life's passion, they don't want to work hard. But passion can't be figured out by thinking alone. Action and emotion are so deeply connected that without working hard on something, you will never understand if you love it or not.
+Many wrongly believe that as long as they haven't found their life's passion, they don't want to work hard. But passion can't be figured out by thinking alone. Action and emotion are so deeply connected that without working hard on something, you will never understand if you love it or not.
 
 I personally don't believe in narrowly defined passions in life. As an absurdist and existentialist, I don't believe we had any predefined passions that we have to find out. Instead, passion can be developed. As long as the work fulfils your highest values in life, and challenges you to grow your character, then it can become a passion of yours if you explore it deep enough and work hard to achieve mastery over the skills.
 
@@ -25,4 +24,3 @@ Of course, it's not wise to expect you will feel happy every moment to work, but
 If you don't feel like working on the goal consistently, day after day like for a month then, of course, you should reevaluate your goals and choose something else instead. The idea is not to torture yourself, but also to not give in to every little thoughts and emotion that come into your mind.
 
 I'll end with a quote from Albert Camus, one of my most favourite philosophers. "Without work, all life goes rotten. But when work is soulless, life stifles and dies."
-
