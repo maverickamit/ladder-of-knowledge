@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Work like a master"
+title: "Work like a Master"
 comments: true
 tags:
   - article

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ignorance is pain"
+title: "Ignorance Is Pain"
 comments: true
 
 excerpt: "A teardrop in her eye / Tired walk on a lonely road"

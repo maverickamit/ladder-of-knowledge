@@ -2,7 +2,7 @@
 layout: post
 comments: true
 
-title: "The best things I learned from my partner"
+title: "The Best Things I Learned from My Partner"
 excerpt: "Well, it seems to me in this era of romanticism, we make the bar of expectations pretty high from our partners."
 # image: "images/plant-growth.jpg"
 tags:
