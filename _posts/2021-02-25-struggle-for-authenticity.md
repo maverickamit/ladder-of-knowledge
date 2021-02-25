@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Struggle Against Authenticity"
+title: "Struggle For Authenticity"
 comments: true
 tags:
   - article
