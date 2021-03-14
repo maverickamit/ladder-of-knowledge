@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On The Topic of Love"
+title: "On the Topic of Love"
 comments: true
 tags:
   - article
@@ -30,8 +30,8 @@ Romantic love is usually not long lasting because it thrives on imagination and 
 
 Only with enough time and interaction, we can begin to see the real person. And the feeling of intense high emotions fade. But, many of us interpret this as loss of love. It is only a different form of love, more sustainable and more peaceful.
 
-To navigate this state of mature love is not in our nature by default. We have to learn the art of love for this stage. And this type of mature love is possible to be directed to anyone, without the condition of being loved back. And the condition of loving doesn't depend on some fixed external criteria associated with the person because with time every healthy person goes through various changes in ideas, values and interests. The condition of mature love is celebrating being human, celebrating knowing and experiencing another person's worldview, to experience their struggles and joy, to come out of one's narcissism.
+To navigate this state of mature love is not in our nature by default. We have to learn the art of love for this stage. Ideally this type of mature love is possible to be directed to anyone. And the condition of loving doesn't depend on some rigid external criteria associated with the person because with time every person goes through various changes in ideas, values and interests. The condition of mature love is celebrating being human, celebrating knowing and experiencing another person's worldview, to experience their struggles and joy, to come out of one's narcissism.
 
-Relationships are only possible when two people love each other independently. As in their love doesn't depend on the condition of being loved back. But nonetheless the other person loves them back. Otherwise the partner who doesn't love doesn't experience joy. Because real joy can not be obtained for long term only from being loved from someone you don't love.
+Relationships are only possible when two people love each other independently. As in their love doesn't depend on the primary foundation of being loved back. But nonetheless the other person loves them back. Otherwise the partner who doesn't love doesn't experience joy. Because real joy can not be obtained for long term only from being loved from someone you don't love.
 
-Thus in reality, while romantic love certainly creates the space for two strangers to come as close as possible to ignite the spark, it is unsustainable in the long term without the presence of mature love. It is possible for two people to love each other and continue to be in a loving enduring relationship when both of them are capable of mature love.
+Thus in reality, while romantic love creates the space for two strangers to come as close as possible to "ignite the spark", it is unsustainable in the long term without the gentle addition of mature love.
